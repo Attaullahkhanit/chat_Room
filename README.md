@@ -70,6 +70,6 @@ Attaullah Khan Sr. Front End Developer
 
 Portfolio: https://www.attaullahkhanweb.com
 
-GitHub: https://github.com/ak-k13579
+GitHub: https://github.com/Attaullahkhanit
 
 
